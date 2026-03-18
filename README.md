@@ -1,31 +1,10 @@
-🤠 Hi, my name is Yuzhe.  
-🌿 I use Github to keep my codes from turning a mess. I like it.  
-🦬 Huge fan of emojis 👉 ESSENCE for communication‼️  
+🤠🌿 Hi, my name is Yuzhe. I am a Ph.D. student🪪 in Artificial Intelligence👾 (almost there!), and I like programming💻 as a hobby🏖️. Besides, I am also a huge fan of emojis‼️
 
-🪪 I am a Ph.D. student in Artificial Intelligence (almost there!), my topics includes:
-* 🧿 Computer Vision
-* 🎯 Feature Matching
-* 🗺️ SfM / SLAM
-* 🪢 Multimodal Fusion
-* 📚 Self-supervised Learning
-* 🏃‍♂️ Action Recognition
-* 👓 Egocentric Videos
-* ⌚️ Inertial Sensors
+- 🎓 **Academic**: Computer Vision · Multimodal Fusion · Self-supervised Learning
+- ⚔️ **Internship**: Video Enhancing · Feature Matching · 3D Reconstruction
+- 💻 **Programming**: Pytorch · Vue · Typescript · Flask · Pydantic · SQLite · Redis
+- 🧰 **Tools**: Linux · Vim · Git · Docker · GCP · OCI · Cloudflare · Firebase
 
-🧰 I build most of my research code with 🔥PyTorch on 🐧Linux, using tools like 🐳Docker, conda, and uv.
+🪑🙅 Being sedentary all day is not a healthy habit! I am trying not get too addicted to programming, and touch grass🏕️ as much as I can.
 
-💻 Besides researching, I also LIKE programming. I built my full-stack website and a mini DnD game there. “Upon these rocks, I built my church:”
-* 🖥️ Vue / Typescript
-* ⚙️ Flask / Pydantic / Python
-* 🛢️ SQLite / Redis
-* ☁️ GCP / OCI / Cloudflare / Firebase
-
-🤖 Since programming is a hobby for me, I am really not a big fan of “letting AI do everything.” But still, special thanks for the modern AI tools which speeds up my building and amplify my joy of coding:
-* 🚀 Antigravity: ~👍~ 👎
-* ✨ Gemini: 🤏
-* 👾 Claude: 👍
-* 🌸 Codex: 👍👍
-
-🪑 Being sedentary all day is not a healthy habit. I am trying not get too addicted to programming, and touch 🏕️grass  as much as I can.
-
-📫 github@yuzhehao.com
+🦬📫 github@yuzhehao.com

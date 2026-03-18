@@ -1,16 +1,31 @@
-## Hi there 👋
+🤠 Hi, my name is Yuzhe.  
+🌿 I use Github to keep my codes from turning a mess. I like it.  
+🦬 Huge fan of emojis 👉 ESSENCE for communication‼️  
 
-<!--
-**YuzheHao/YuzheHao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🪪 I am a Ph.D. student in Artificial Intelligence (almost there!), my topics includes:
+* 🧿 Computer Vision
+* 🎯 Feature Matching
+* 🗺️ SfM / SLAM
+* 🪢 Multimodal Fusion
+* 📚 Self-supervised Learning
+* 🏃‍♂️ Action Recognition
+* 👓 Egocentric Videos
+* ⌚️ Inertial Sensors
 
-Here are some ideas to get you started:
+🧰 I build most of my research code with 🔥PyTorch on 🐧Linux, using tools like 🐳Docker, conda, and uv.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Besides researching, I also LIKE programming. I built my full-stack website and a mini DnD game there. “Upon these rocks, I built my church:”
+* 🖥️ Vue / Typescript
+* ⚙️ Flask / Pydantic / Python
+* 🛢️ SQLite / Redis
+* ☁️ GCP / OCI / Cloudflare / Firebase
+
+🤖 Since programming is a hobby for me, I am really not a big fan of “letting AI do everything.” But still, special thanks for the modern AI tools which speeds up my building and amplify my joy of coding:
+* 🚀 Antigravity: ~👍~ 👎
+* ✨ Gemini: 🤏
+* 👾 Claude: 👍
+* 🌸 Codex: 👍👍
+
+🪑 Being sedentary all day is not a healthy habit. I am trying not get too addicted to programming, and touch 🏕️grass  as much as I can.
+
+📫 github@yuzhehao.com

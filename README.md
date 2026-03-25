@@ -1,3 +1,5 @@
+<img align="right" width="18%" src="https://github.com/YuzheHao/YuzheHao/blob/main/dundun.svg/">
+
 🤠🌿 Hi, my name is Yuzhe.  
 I am a Ph.D. student🪪 in Artificial Intelligence👾 (almost there!)  
 And I like programming💻 as a hobby🏖️.   
